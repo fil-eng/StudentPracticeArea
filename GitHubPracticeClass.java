@@ -23,7 +23,5 @@ public class GitHubPracticeClass {
       public void Kbrom_Mehari(){
         System.out.println("I am Kbrom Mehari");
     }
-       public void hagos(){
-        System.out.println("I am hagos berhe 3 year software ");
-    }
+    
 }
